@@ -9,5 +9,5 @@ Basic Url shortening website.
   2. Express.js
   
  * Frontend:
-  1.Ejs
+  1. Ejs
    
