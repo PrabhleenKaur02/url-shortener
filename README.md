@@ -9,6 +9,5 @@ Basic Url shortening website.
   2. Express.js
   
  * Frontend:
-  1. React.js
-  2. Bootstrap
+  1.Ejs
    
