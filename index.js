@@ -22,7 +22,7 @@ app.use('/url', restrictTo(["NORMAL"]), urlRoute);
 app.use('/', staticRoute);
 app.use('/user', userRoute);
 
-connectToMongoDB("mongodb+srv://kaurprabhleen2002:EGiNeRa7yLhNuZc1@cluster0.ih4d0ql.mongodb.net/url-shortener")
+connectToMongoDB("mongodb+srv://email<password>@cluster0.ih4d0ql.mongodb.net/url-shortener")
 .then(()=> console.log("Server connected to MongoDB"));
 
 app.set('view engine', 'ejs');
